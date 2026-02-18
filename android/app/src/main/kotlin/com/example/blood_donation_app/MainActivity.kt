@@ -1,5 +1,6 @@
-package com.example.blood_donation_app
+package com.example.bloodconnect
 
 import io.flutter.embedding.android.FlutterActivity
+import io.flutter.embedding.android.FlutterFragmentActivity
 
-class MainActivity : FlutterActivity()
+class MainActivity : FlutterFragmentActivity()

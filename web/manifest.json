@@ -1,6 +1,6 @@
 {
-    "name": "blood_donation_app",
-    "short_name": "blood_donation_app",
+    "name": "bloodconnect",
+    "short_name": "bloodconnect",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
